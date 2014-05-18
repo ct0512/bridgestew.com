@@ -1,0 +1,24 @@
+url: http://bridgestew.com
+name: Bridgestew
+description: What the voices in my head tell me
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "page"
+      permalink: /:title
+  -
+    scope:
+      path: "/articles"
+      type: "post"
+    values:
+      layout: "article" # overrides previous default layout
+      permalink: :title
+  -
+    scope:
+      path: "/thoughts"
+      type: "post"
+    values:
+      layout: "thought" # overrides previous default layout
+      permalink: :title

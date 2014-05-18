@@ -1,0 +1,15 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }} : {% endif %} {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if %}{{ page.excerpt }}{% else %}{{ description }}{% endif %}">
+
+    <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortlink" type="text/html" href="{{ page.shortlink }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+
+    <script src="js/lib/modernizr-2.8.0.min.js"></script>
+</head>
