@@ -17,6 +17,7 @@ defaults:
 #      permalink: /articles/:title  #this didn't work, either
 #      permalink: :path/:title  #this didn't work, either
 #      permalink: /:path/:title  #this didn't work, either
+#      permalink: none  #this didn't work, either
   -
     scope:
       path: "/thoughts"
@@ -24,5 +25,6 @@ defaults:
     values:
       layout: "thought" # overrides previous default layout
 
-#   I've followed several different articles, now having restructured things to attempt using collects (after trying to do it regular "posts" style)
+#   I've followed several different articles, now having restructured things to attempt using collectionss (after trying to do it regular "posts" style)
 #   I can't recall all the many ways I have restructured this over the last two days. :)
+
