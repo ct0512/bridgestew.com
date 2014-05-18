@@ -1,7 +1,7 @@
 ---
 title: 'It Shouldn&#8217;t Be Like This'
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/01/15/it-shouldnt-be-like-this/
 categories:
   - Nonsense

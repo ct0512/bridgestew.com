@@ -1,7 +1,7 @@
 ---
 title: Ampersand Art
 author: Bridget
-layout: post
+layout: article
 permalink: /2010/05/06/ampersand-art/
 categories:
   - Nonsense

@@ -1,7 +1,7 @@
 ---
 title: Responsive Images Breakpoints
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/09/02/responsive-images-breakpoints/
 categories:
   - Web Stuff
@@ -37,9 +37,9 @@ I can wrangle a lot of things as the tools get more sophisticated, but am I able
 Just as John Allsopp quoted in his Dao of Web Design article on A List Apart:
 
 > The Sage “…accepts the ebb and flow of things,
-> 
+>
 > Nurtures them, but does not own them,”
-> 
+>
 > Tao Te Ching; 2 Abstraction
 
 I think the above quote applies aptly to our current attempts to solve how images look across the variety of devices &#8211; high density or otherwise. Read (or reread) his article, especially the portion under the heading “Controlling Web Pages.” Resolution density issues were actually a thing designers tried to control back in 2000. 12 years and some months after that article we’re at it again! Consider, too, that Ethan Marcotte was inspired by **that very article** when he uncovered the secret of Responsive Design.
@@ -53,9 +53,9 @@ In all of this rambling, the point of my post today is about finding that happy 
 Do what you can reasonably do to make something beautiful, but be willing to let go of that which takes more effort and/or overhead than is *reasonable* to accomplish it. This notion is not so different from giving up the notion of struggling to make every browser look the same. It’s also pretty close to the serenity prayer:
 
 > Grant me the serenity to accept the things I cannot change,
-> 
+>
 > The courage to change the things I can,
-> 
+>
 > And the wisdom to know the difference.
 
 **Wisdom to know the difference** &#8211; that’s the clincher for me. That’s the part that is almost always unclear.

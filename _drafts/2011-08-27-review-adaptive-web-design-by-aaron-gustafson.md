@@ -1,7 +1,7 @@
 ---
 title: 'Review: Adaptive Web Design by Aaron Gustafson'
 author: Bridget
-layout: post
+layout: article
 permalink: /2011/08/27/review-adaptive-web-design-by-aaron-gustafson/
 categories:
   - Web Stuff
@@ -29,10 +29,10 @@ Seems pretty simple, right? Three &#8220;layers&#8221; for progressive enhanceme
 
 Additionally, Aaron details items like the following as CSS enhancements (along with other things).
 
-*   Capitalizing on browsers ignoring syntax they don&#8217;t understand 
+*   Capitalizing on browsers ignoring syntax they don&#8217;t understand
     *   Selector-based screening techniques to target specific browsers
     *   Using Conditional Comments for IE
-*   Using the cascade to separate concerns 
+*   Using the cascade to separate concerns
     *   Typography
     *   Layout
     *   Color

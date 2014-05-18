@@ -1,7 +1,7 @@
 ---
 title: 'An Event Apart &#8211; Day One'
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/10/13/an-event-apart-day-one/
 categories:
   - An Event Apart
@@ -9,7 +9,7 @@ categories:
 ---
 I&#8217;m attending [An Event Apart][1], a great conference for people who make websites. My plan is to take notes during the presentations mainly so that I remember all the great stuff I heard, but also to share with my friends who couldn&#8217;t attend.
 
-I also plan to create just two posts &#8211; Day One and Day Two. So, if you are one of the folks following along, I&#8217;ll publish the post section at the end of each presentation. All of Day One&#8217;s presentations will be contained in Day One. Hopefully, that is plain and obvious. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+I also plan to create just two posts &#8211; Day One and Day Two. So, if you are one of the folks following along, I&#8217;ll publish the post section at the end of each presentation. All of Day One&#8217;s presentations will be contained in Day One. Hopefully, that is plain and obvious. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 On to the meat of the posts&#8230;<!--more-->
 
@@ -47,17 +47,17 @@ The guitar solo is more about flashy and &#8220;look what we can do&#8221;. The 
 
 #### 12 Tips to good webdesign
 
-1. Start with the user. Follow your passion.  
-2. Know yourself. Know your limitations.  
-3. Find the right clients. Find the job that is the right fit for you.  
-4. Sell ideas, not pixels.  
-5. It is okay to say &#8220;I don&#8217;t know.&#8221;  
-6. Build trust.  
-7. Bring out the big guns. (consultants and publications to back up your claims)  
-8. Create a paper trail.  
-9. Never underprice your work.  
-10. Never work for free (spec work).  
-11. Say not to rush jobs.  
+1. Start with the user. Follow your passion.
+2. Know yourself. Know your limitations.
+3. Find the right clients. Find the job that is the right fit for you.
+4. Sell ideas, not pixels.
+5. It is okay to say &#8220;I don&#8217;t know.&#8221;
+6. Build trust.
+7. Bring out the big guns. (consultants and publications to back up your claims)
+8. Create a paper trail.
+9. Never underprice your work.
+10. Never work for free (spec work).
+11. Say not to rush jobs.
 12. End with the user. End with your passion.
 
 ### Eric Meyer
@@ -68,21 +68,21 @@ Eric built a debug stylesheet for his use. He uses this in conjunction with the 
 
 #### Things in His Debug Stylesheet
 
-1. It checks for is &#8220;empty&#8221; content such as divs, spans, paragraphs, list items, table heading and table cells.  
-2. It checks for elements that don&#8217;t belong such as a [style], font, center, empty class attributes and empty id attributes.  
-3. It checks for missing images or missing alt and title attributes.  
-4. It checks for missing table summaries, missing table heading scopes.  
-5. It checks for links without title attributes.  
-6. It checks for hrefs that have hash signs instead of actual links.  
-7. It checks for a determined level of nested divs. Something crazy, not something within reason.  
-8. It checks for forms that don&#8217;t have an action of method.  
+1. It checks for is &#8220;empty&#8221; content such as divs, spans, paragraphs, list items, table heading and table cells.
+2. It checks for elements that don&#8217;t belong such as a [style], font, center, empty class attributes and empty id attributes.
+3. It checks for missing images or missing alt and title attributes.
+4. It checks for missing table summaries, missing table heading scopes.
+5. It checks for links without title attributes.
+6. It checks for hrefs that have hash signs instead of actual links.
+7. It checks for a determined level of nested divs. Something crazy, not something within reason.
+8. It checks for forms that don&#8217;t have an action of method.
 9. It checks that input elements are not children of the form element. (Inputs should have a fieldset as the block element separating them). It also checks that there is a block element inside a blockquote, so that the text is not a child element. (At the very least, there should be a &#8220;p&#8221; tag &#8212; where applicable &#8212; surrounding the text inside a blockquote).
 
 In no way does Eric advocate that the debug stylesheet he uses is **the** debug stylesheet. But, he does recommend using one for sites that you have inherited to find wonky markup or for stuff that a CMS may spit out.
 
 #### The Reset (Reboot) Sheet
 
-Next, he advocated why a reset sheet can be useful. Mainly, the fact that each browser uses subtly different default styles to apply padding, margin, and line-height. A reset stylesheet will allow you to create the look and feel for a site from a blank slate. However, he doesn&#8217;t advocate using the reset stylesheet that he has written (that many people make use of) without altering it to fit the base styles that you commonly use. In his opinion, it is wasteful and silly to add a declaration in another stylesheet, if you use the same values on a regular basis. Make those common declarations part of the reset sheet and go wild from there. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+Next, he advocated why a reset sheet can be useful. Mainly, the fact that each browser uses subtly different default styles to apply padding, margin, and line-height. A reset stylesheet will allow you to create the look and feel for a site from a blank slate. However, he doesn&#8217;t advocate using the reset stylesheet that he has written (that many people make use of) without altering it to fit the base styles that you commonly use. In his opinion, it is wasteful and silly to add a declaration in another stylesheet, if you use the same values on a regular basis. Make those common declarations part of the reset sheet and go wild from there. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 Next, Eric spent time explaining all the things he learned about browsers and how they address styling and inheritance. As usual, they don&#8217;t all handle things the same way. He also gave an explanation about the evolution of the reset stylesheet that he has shared with the world as a result of the things he learned whilst &#8220;breaking&#8221; things he didn&#8217;t think it should break.
 
@@ -102,9 +102,9 @@ We&#8217;re all capable of telling a story. Why haven&#8217;t we created fantast
 
 Designers have common principles that are no longer common when moved online. Here are the constraints we deal with:
 
-1. The metaphorical page  
-2. Ubiquity and WYSIWYG  
-3. Collections of pages (attainability & grasp of depth)  
+1. The metaphorical page
+2. Ubiquity and WYSIWYG
+3. Collections of pages (attainability & grasp of depth)
 4. Layout
 
 Ratios (such as The Golden Ratio of 1.618) and The Rule of Thirds don&#8217;t apply in the same way for web design as it does in print design. Most of the web runs on a single fixed dimension: *width*. But we can&#8217;t even predict what kind of device will be used to view our work.
@@ -131,40 +131,40 @@ The creative process begins by exploring all the possibilities (divergence). As 
 
 #### Google&#8217;s Design Criteria for Google Calendar
 
-- Easy, visually appealing, and joyous to use  
-- Drop dead simple to get information into the calendar  
-- More than boxes on a screen (reminders, invitations, etc&#8230;)  
-- Easy to share so you can see your whole life in once place  
-- Open API&#8217;s  
+- Easy, visually appealing, and joyous to use
+- Drop dead simple to get information into the calendar
+- More than boxes on a screen (reminders, invitations, etc&#8230;)
+- Easy to share so you can see your whole life in once place
+- Open API&#8217;s
 - Invitation for everyone
 
 Note that the above statements are constraints, but they are not so detailed in their description as to impose severe limitations. Constraints are good. Pigeon-holing is not good.
 
 Statements like &#8220;We need to increase conversion rates&#8221; is *not* an actionable item. Turning that statement into actionable items required research. Context and Mental Models interviews regarding attitudes language, objects made and used, other people, learning patterns, content and emotions. Expectations and Experiences intercepts regarding expectations before starting the (account) set-up process; experience expectations once in the set-up process.
 
-Design Criteria for the above scenario:  
-- Be human  
-- Work the way your customers do  
-- Set expectations  
-- Show progress  
+Design Criteria for the above scenario:
+- Be human
+- Work the way your customers do
+- Set expectations
+- Show progress
 - Find efficiencies
 
-Design Criteria for Design Criteria  
-- Come from anywhere  
-- Start from the start  
-- One brain, many brains, one brain  
-- Art, not science  
-- Support with evidence  
+Design Criteria for Design Criteria
+- Come from anywhere
+- Start from the start
+- One brain, many brains, one brain
+- Art, not science
+- Support with evidence
 - Criteria everywhere
 
-Generating Design Criteria: List out all criteria candidates and sort into 5 &#8211; 7 groups. Discuss and refine.  
+Generating Design Criteria: List out all criteria candidates and sort into 5 &#8211; 7 groups. Discuss and refine.
 Synthesizing Design Criteria: Looking at the 5 &#8211; 7 groups, take a stab at a list. Sometimes it helps if just one person does this and the group reviews and refines.
 
 Criteria must be clear and concise but not so abstract they don&#8217;t suggest concrete solutions. Yet, they must be open-ended enough that they don&#8217;t dictate solutions.
 
 ### Robert Hoekman, Jr.
 
-He lives in Arizona, which means he can see Mexico from his house. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> 
+He lives in Arizona, which means he can see Mexico from his house. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' />
 
 #### On-the-Spot Usability Reviews
 
@@ -178,7 +178,7 @@ He recommended taking the 4 panels on the right and making them larger entry poi
 
 #### ASUFoundation.org critique
 
-The <span id=ppfh><a href=http://blogsbycity.com/lib/pet-vitamins/hartz-cat-vitamins.html>hartz cat vitamins</a></span>  
+The <span id=ppfh><a href=http://blogsbycity.com/lib/pet-vitamins/hartz-cat-vitamins.html>hartz cat vitamins</a></span>
 main goal of the site is to get people to make a gift to the foundation, but it also strives to impart information about where the money goes and how it is used. First noted item is that the "Give to ASU" button is very tiny, so that make it difficult to achieve the primary goal.
 
 Robert recommended taking the news listings on the right out and make them bullet points that are compelling action statements leading people to confidently make a gift. When landing on the "Give to ASU" page, he recommended taking the text that is there and changing it to be bullet point information blurbs that are the FAQ of what happens when a gift is made.
@@ -189,7 +189,7 @@ The dropdown menus are gigantic on this form and has likely been the cause of a 
 
 #### Easy Usability Testing
 
-An easy way to get feedback on your sites: take a screenshot of one of the pages of your website. Show it to a user for 5 seconds. Take it away. Ask them to write down everything they remember about the page. If their list and the main action item your page was supposed to promote do not line up, you know you have work to do on that page. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+An easy way to get feedback on your sites: take a screenshot of one of the pages of your website. Show it to a user for 5 seconds. Take it away. Ask them to write down everything they remember about the page. If their list and the main action item your page was supposed to promote do not line up, you know you have work to do on that page. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 There is an online application at [fivesecondtest.com][7] to make use of this kind of quick and dirty usability testing on a very basic level.
 
@@ -211,9 +211,9 @@ He is demonstrating how applying focus for the user rather than making them use 
 
 Simplify text. Use natural language. Case in point: instead of "setting permissions" (public, private, etc) use something like "Who can see this?" with these options in the list:
 
-Everyone  
-Only I can  
-Select a group...  
+Everyone
+Only I can
+Select a group...
 Select people...
 
 Always choose to be clear over being clever.
@@ -274,7 +274,7 @@ Placement of images can also help a user work their way through the content. Ima
 
 Think about building up drama in...
 
-...a product launch  
+...a product launch
 ...a news item
 
 Front pages of comic books orient the reader as to what has gone before...what the content/site is about...and orient them to what they might expect next...even if what comes next will be surprising.

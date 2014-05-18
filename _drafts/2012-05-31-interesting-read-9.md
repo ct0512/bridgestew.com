@@ -1,7 +1,7 @@
 ---
 title: 'Interesting read:'
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/05/31/interesting-read-9/
 categories:
   - Stuff worth reading

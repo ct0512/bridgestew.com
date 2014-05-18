@@ -1,7 +1,7 @@
 ---
 title: User Research in the Design Process
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/09/19/user-research-in-the-design-process/
 categories:
   - CWSA
@@ -19,28 +19,28 @@ Not to be confused with usability testing – user research can help get client,
   </p>
 </div>Vince Frantz is an information designer and <span id=niya><a href=http://blogsbycity.com/lib/pet-vitamins/natural-pet-vitamins.html>natural pet vitamins</a></span>
 
-  
+
 principal of Frantz I.D. Since 1996, he has spearheaded a broad scope of design projects across web, intra/extranet, print and motion media. Prior to that, Vince was an interaction designer and illustrator at Root Learning, Inc. After many years doing design and development, in 2005 he began designing a new form of organization that would enhance the user centered design and development process. In June of 2006, Sprokets launched as his own “ideal client” that would always align business strategy with end-user needs. Vince also founded the non-profit Public Square Group to help cities in Northeast Ohio employ a user centered approach to the design and development of sustainable skateboard parks.
 
 Register for this event on [Upcoming.org][1]
 
-### 
+###
 
 ### Agenda
 
-6:30 - 7:00 Social time while attendees arrive  
-7:00 - 8:30 Presentation  
+6:30 - 7:00 Social time while attendees arrive
+7:00 - 8:30 Presentation
 8:30 - 11:00 More social time at Max & Erma's (5020 Tiedeman Rd)
 
 <div class="location">
   <h3>
     Event Location
   </h3>
-  
+
   <div class="map">
     <br /><small><a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=American+Greeting+Corp+Cleveland+Ohio&ie=UTF8&ll=41.437193,-81.757336&spn=0.038607,0.051498&z=13&source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
-  
+
   <p>
     American Greetings<br /> One American Road<br /> Cleveland, OH 44101
   </p>

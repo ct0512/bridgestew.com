@@ -1,7 +1,7 @@
 ---
 title: 'Return to the Web of the 1990&#8242;s?'
 author: Bridget
-layout: post
+layout: article
 permalink: /2007/12/17/return-to-the-web-of-the-1990s/
 categories:
   - Web Stuff
@@ -34,7 +34,7 @@ To be fair, Jeff&#8217;s comments are based on what he read in Alex Russell&#821
 
 > &#8230;there are huge tracts of the HTML, CSS, and DOM spec’s that you simply can’t use. IE’s bugs combined with its market share conspire to ensure that’s true&#8230;Mozilla, Opera, and Safari all have their own warts as we get to the edges of what’s even theoretically possible w/ current specs. And that’s not even taking into account how utterly wrong, broken, and silent the specs are in several key areas. **Even if the specs were great, we’d still be gated by the adoption of new renderers.**
 
-So, it is still like the <span id=giquw><a href=http://blogsbycity.com/lib/pet-vitamins/pet-vitamins.html>pet vitamins</a></span>  
+So, it is still like the <span id=giquw><a href=http://blogsbycity.com/lib/pet-vitamins/pet-vitamins.html>pet vitamins</a></span>
 90's but to a lesser degree, right? When it comes to building something, anything for the web, designers and developers have to take the different browsers and how they render things into consideration.
 
 The difference between the 90's and now is that the industry began to care about making websites that didn't have badges that stated "Best viewed in [insert browser name.version]." Web designers and developers didn't want to write markup and/or code specifically aimed at particular browsers or, God forbid, multiple versions of the same site/application to target all of them.

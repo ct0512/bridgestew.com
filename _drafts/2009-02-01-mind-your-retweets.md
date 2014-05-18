@@ -1,13 +1,13 @@
 ---
 title: Mind your RTs (retweets)
 author: Bridget
-layout: post
+layout: article
 permalink: /2009/02/01/mind-your-retweets/
 categories:
   - Personal Declarations
   - Web Stuff
 ---
-If you are using [Twitter][1] as a means to communicate with other people, super. You&#8217;re not the only one. There are tons and tons of us out here using Twitter and as a means to make Twitter a useful service, I only see the [tweets][2] from those I follow. At least, that&#8217;s the theory.  
+If you are using [Twitter][1] as a means to communicate with other people, super. You&#8217;re not the only one. There are tons and tons of us out here using Twitter and as a means to make Twitter a useful service, I only see the [tweets][2] from those I follow. At least, that&#8217;s the theory.
 <!--more-->
 
 ### Crossing the Line
@@ -23,7 +23,7 @@ Yet, there are other users of the Twitter service who force me to read tweets fr
 
 ### What&#8217;s the Big Deal?
 
-You may ask what the <span id=nqogl><a href=http://blogsbycity.com/lib/pet-vitamins/dog-vitamin-k.html>dog vitamin k</a></span>  
+You may ask what the <span id=nqogl><a href=http://blogsbycity.com/lib/pet-vitamins/dog-vitamin-k.html>dog vitamin k</a></span>
 big deal is. You may wonder why I find this irritating. As with all fads, retweeting has taken off like gangbusters and it's infecting the twitter-stream. There are people who will retweet nearly every tweet they see from their twitter pals.
 
 Ok, so maybe that's a gross exaggeration - but it doesn't feel like it.

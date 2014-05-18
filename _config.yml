@@ -1,24 +1,28 @@
 url: http://bridgestew.com
 name: Bridgestew
-description: What the voices in my head tell me
+description: A diary of what the voices in my head tell me.
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
       layout: "page"
-      permalink: /:title
   -
     scope:
       path: "/articles"
       type: "post"
     values:
       layout: "article" # overrides previous default layout
-      permalink: :title
+#      permalink: articles/:title  #this didn't work
+#      permalink: /articles/:title  #this didn't work, either
+#      permalink: :path/:title  #this didn't work, either
+#      permalink: /:path/:title  #this didn't work, either
   -
     scope:
       path: "/thoughts"
       type: "post"
     values:
       layout: "thought" # overrides previous default layout
-      permalink: :title
+
+#   I've followed several different articles, now having restructured things to attempt using collects (after trying to do it regular "posts" style)
+#   I can't recall all the many ways I have restructured this over the last two days. :)

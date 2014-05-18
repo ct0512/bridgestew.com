@@ -1,7 +1,7 @@
 ---
 title: Responsive Workflow in a Team Setting
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/05/29/responsive-workflow-in-a-team-setting/
 categories:
   - BDConf

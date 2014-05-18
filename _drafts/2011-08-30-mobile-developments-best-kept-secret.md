@@ -1,7 +1,7 @@
 ---
 title: 'Mobile Development&#8217;s Best Kept Secret?'
 author: Bridget
-layout: post
+layout: article
 permalink: /2011/08/30/mobile-developments-best-kept-secret/
 categories:
   - Web Stuff

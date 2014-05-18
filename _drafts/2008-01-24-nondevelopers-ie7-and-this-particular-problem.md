@@ -1,14 +1,14 @@
 ---
 title: Nondevelopers, IE7 and This Particular Problem
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/01/24/nondevelopers-ie7-and-this-particular-problem/
 categories:
   - Web Stuff
 ---
 My latest round of articles here have been spawned as retorts, replies and general questions to the comments of others in the web community. I quote these folks so that they get the proper credit for what they said, but I fear that my latest posts could be construed in a manner in which I do not intend &#8212; as antagonizing. So, please allow me to state that I am not attempting to call out these brilliant minds to defend their declarations, per se. I&#8217;m seeking answers to the questions I have as a result of the things they have said regarding [browser version targeting][1].
 
-<!--more--> Jeffrey Zeldman provided a 
+<!--more--> Jeffrey Zeldman provided a
 
 [poignant comment on his blog][2] regarding why he is in favor of the version targeting idea, having moved past his original misgivings.
 
@@ -17,7 +17,7 @@ My latest round of articles here have been spawned as retorts, replies and gener
 Jeffrey stated:
 
 > When I think of the IE7 default Microsoft intends to use in version targeting, I think of the people who don’t read this site, don’t read ALA, don’t attend conferences — not because they are bad, lazy developers, but because they are not web developers at all.
-> 
+>
 > There are millions of them out there.
 
 I understand this concept very well. I still think this solution has not been thought through all the way to a proper conclusion.
@@ -26,7 +26,7 @@ I understand this concept very well. I still think this solution has not been th
 
 Jeffrey stated:
 
-> If CSS and <span id=haug><a href=http://blogsbycity.com/lib/pet-vitamins/dog-muscle-supplement.html>dog muscle supplement</a></span>  
+> If CSS and <span id=haug><a href=http://blogsbycity.com/lib/pet-vitamins/dog-muscle-supplement.html>dog muscle supplement</a></span>
 > HTML had been introduced to the world in tandem; if browsers had supported them accurately from day one, with no browser wars and no need for The Web Standards Project; if CSS-based layout were so easy that nobody needed to read Meyer or Cederholm to figure out how to do it; then there’d be no need for expensive authoring tools, no need for the DOCTYPE switch, no need for hacks, and no need — today — to protect schoolteachers, rabbis, shop owners, and other nonprofessional creators of websites from the complexities of web development and browser rendering issues.
 
 Ok, and we all know that is not how the web developed. But what other product/service/industry can claim that all their tools, best practices and standards were handed to them on a silver platter when it originated? Still, they have managed to persevere.

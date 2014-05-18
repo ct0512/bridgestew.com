@@ -1,7 +1,7 @@
 ---
 title: Misunderstanding Progressive Enhancement
 author: Bridget
-layout: post
+layout: article
 permalink: /2011/07/23/misunderstanding-progressive-enhancement/
 categories:
   - Web Stuff

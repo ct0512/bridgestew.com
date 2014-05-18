@@ -1,12 +1,12 @@
 ---
 title: More on the Meta
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/01/24/more-on-the-meta/
 categories:
   - Web Stuff
 ---
-So, I&#8217;ve talked to a few colleagues and had an additional 24 hours to mull this [meta declaration proposition][1] over &#8212; the browser version targeting idea. Did it help to change my mind? Am I convinced that version targeting is a good idea now? If you care about my surface level observations today as they [compare to yesterday][2], you&#8217;ll have to click the link to read more. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+So, I&#8217;ve talked to a few colleagues and had an additional 24 hours to mull this [meta declaration proposition][1] over &#8212; the browser version targeting idea. Did it help to change my mind? Am I convinced that version targeting is a good idea now? If you care about my surface level observations today as they [compare to yesterday][2], you&#8217;ll have to click the link to read more. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 <!--more-->
 
@@ -32,7 +32,7 @@ Eric also stated:
 
 Ok, but for how long must this continue?
 
-Consider advancements in <span id=zkjih><a href=http://blogsbycity.com/lib/pet-vitamins/vitamin-a-in-dogs.html>vitamin a in dogs</a></span>  
+Consider advancements in <span id=zkjih><a href=http://blogsbycity.com/lib/pet-vitamins/vitamin-a-in-dogs.html>vitamin a in dogs</a></span>
 technologies that are not related to the web. Let's take a look at what is going on with television. On February 17th, 2009 "broadcast" of tv will change dramatically. It's moving away from analog to digital. On February 17th, 2009 if you don't have a way to access television broadcasts digitally, then you won't be watching tv. AT ALL.
 
 A few myths began circulating about having to throw away your analog televisions (not true, get a converter if your tv can handle it). It was also misunderstood that you must have an HDTV to see digital broadcast. Again, not true. Regardless of those myths, there is one thing that rises to the surface. You can't throw a tantrum when your analog tv no longer receives an analog signal. They simply won't be there. Assimilate or miss out. No ifs, ands or buts.

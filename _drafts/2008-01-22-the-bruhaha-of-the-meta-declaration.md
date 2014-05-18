@@ -1,7 +1,7 @@
 ---
 title: The Bruhaha of the Meta Declaration
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/01/22/the-bruhaha-of-the-meta-declaration/
 categories:
   - Web Stuff
@@ -20,7 +20,7 @@ Eric said:
 
 > Yes, we have made great strides; yes, the work of educating developers has borne some fruit. Still, we need to be honest about this. **We’re not reaching everyone, and *probably never will*.** Some sites will be developed according to what the browser-of-the-moment does, no matter how incorrect that might be in comparison to a specification or even other browsers’ behaviors.
 
-This sparked a <span id=raxim><a href=http://blogsbycity.com/lib/pet-vitamins/pet-food-supplement.html>pet food supplement</a></span>  
+This sparked a <span id=raxim><a href=http://blogsbycity.com/lib/pet-vitamins/pet-food-supplement.html>pet food supplement</a></span>
 series of questions for me. If the uneducated or standards-challenged designer/developer is only doing "current browser" deployment, how will they know to use the meta declaration in the first place to keep the thing working for years to come? Doesn't that require a level of education? Isn't that a hurdle that will pop up unexpectedly if the meta declaration comes to be? What are the plans for the "undeclared" of today and of the future?
 
 Furthermore, what about that kind of behavior doesn't already "break the web" with older versions of browsers (such as IE6)? If I (uneducated-ly) build a website to look good in Firefox, there's no guarantee that it works properly in IE7 or IE6. So, I (uneducated-ly) already broke the web thanks to my browser testing choice and WYSIWYG-ing together a site in Frontpage or Dreamweaver or whatever. Furthermore, if IE7 is the "default" for the undeclared sites, what about a viewer using IE6? Isn't that a problem already?

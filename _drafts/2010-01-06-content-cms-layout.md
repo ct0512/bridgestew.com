@@ -1,7 +1,7 @@
 ---
 title: Content + CMS + Layout
 author: Bridget
-layout: post
+layout: article
 permalink: /2010/01/06/content-cms-layout/
 categories:
   - Uncategorized
@@ -62,7 +62,7 @@ Remember how I said this solution was designed before the content was completed?
 
 ### The Questions I&#8217;d Like Addressed
 
-Is this kind of page display, with its uneven look and clearly empty space something to be expected and accepted because a CMS is involved and templates are often laid out before content exists? Or in another scenario the content may have existed to fit in such a layout properly, but when the content changed, the layout couldn&#8217;t adapt&#8230;say, if one or more of the categories were deleted from the page that used to be in multiples of 4. 
+Is this kind of page display, with its uneven look and clearly empty space something to be expected and accepted because a CMS is involved and templates are often laid out before content exists? Or in another scenario the content may have existed to fit in such a layout properly, but when the content changed, the layout couldn&#8217;t adapt&#8230;say, if one or more of the categories were deleted from the page that used to be in multiples of 4.
 
 As people who agree with the &#8220;design should support the content&#8221; methodology, should we promote designing various layouts &mdash; even for just one content type (like a category page) &mdash; for when the content changes or doesn&#8217;t fit the initial mold of the concept? Or, is that taking things too far?
 

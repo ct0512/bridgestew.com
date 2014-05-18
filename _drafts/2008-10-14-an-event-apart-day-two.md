@@ -1,7 +1,7 @@
 ---
 title: 'An Event Apart &#8211; Day Two'
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/10/14/an-event-apart-day-two/
 categories:
   - An Event Apart
@@ -9,28 +9,28 @@ categories:
 ---
 I’m attending An Event Apart, a great conference for people who make websites. My plan is to take notes during the presentations mainly so that I remember all the great stuff I heard, but also to share with my friends who couldn’t attend.
 
-I also plan to create just two posts &#8211; Day One and Day Two. So, if you are one of the folks following along, I’ll publish the post section at the end of each presentation. All of Day One’s presentations will be contained in Day One, while Day Two will be in a post dedicated to day two. Hopefully, that is plain and obvious. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+I also plan to create just two posts &#8211; Day One and Day Two. So, if you are one of the folks following along, I’ll publish the post section at the end of each presentation. All of Day One’s presentations will be contained in Day One, while Day Two will be in a post dedicated to day two. Hopefully, that is plain and obvious. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 On to the meat of the posts…<!--more-->
 
 ### Eric Meyer
 
-Eric was at yesterday&#8217;s after party longer than the rest of his Cleveland pals, so we have no idea how much time he actually had to prepare for today&#8217;s presentation which is a live code workshop. This presentation is based on user submitted questions from yesterday, so it isn&#8217;t like he can fake it! Good luck, Eric. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+Eric was at yesterday&#8217;s after party longer than the rest of his Cleveland pals, so we have no idea how much time he actually had to prepare for today&#8217;s presentation which is a live code workshop. This presentation is based on user submitted questions from yesterday, so it isn&#8217;t like he can fake it! Good luck, Eric. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 #### Stratom.com
 
-Stratom.com has a <span id=uyjb><a href=http://blogsbycity.com/lib/pet-vitamins/vitamins-for-dogs-skin.html>vitamins for dogs skin</a></span>  
+Stratom.com has a <span id=uyjb><a href=http://blogsbycity.com/lib/pet-vitamins/vitamins-for-dogs-skin.html>vitamins for dogs skin</a></span>
 few superfluous divs and a touch of span-itis in the menu, but overall it isn't horrendous. Eric is happy that no one submitted a table based site to be reviewed today because 3 or 4 years ago they would have still been on the radar.
 
 There are some classes with names that are lacking like "style21" and there were still some align="left"s and there was a div with a bunch of empty paragraph tags. His main beef with the site regardless of these other items is the div that surrounds the menu which is an unordered list. He pointed out that that div didn't "do" anything so it was unnecessary. The ul would be the containing element.
 
-He also suggested that there are sites that will create a header div that has the h1 to hold the logo, a few links and a search box. He explained that you could put the h1 and the links inside the form that the search box will be in. Think smart about what container type elements are already on hand and make good use of them instead. Divs are not a requirement. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+He also suggested that there are sites that will create a header div that has the h1 to hold the logo, a few links and a search box. He explained that you could put the h1 and the links inside the form that the search box will be in. Think smart about what container type elements are already on hand and make good use of them instead. Divs are not a requirement. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 #### McKesson.com
 
-McKesson is designed in pixel-based text which would have once been a criticism point, but with the advent of page zoom and the impending death of IE6 it isn't a big deal anymore. 
+McKesson is designed in pixel-based text which would have once been a criticism point, but with the advent of page zoom and the impending death of IE6 it isn't a big deal anymore.
 
-Some of the class names were not helpful, such as {p class="p"}. He was actually impressed that they had extended their brand in their file extension. He noted that there was a missing background-color declaration in the body, so he changed it to lime in the user stylesheet to show how sad it looks in the hands of others. 
+Some of the class names were not helpful, such as {p class="p"}. He was actually impressed that they had extended their brand in their file extension. He noted that there was a missing background-color declaration in the body, so he changed it to lime in the user stylesheet to show how sad it looks in the hands of others.
 
 If you are going to set your text in pixels, he recommends setting that in the body and then use percentages on headings and other elements. That way, scaling is still used and should there ever need to be a change in the base, there is only one line to alter instead of many places to be hunted down and changed.
 
@@ -54,8 +54,8 @@ Rob read two books on chess: Pandolfini's Ultimate Guide to Chess (Bruce Pandolf
 
 Chronology: 3 parts in both chess and in web design to succeed (hopefully).
 
-1. Opening - Information Architecture  
-2. Middle Game - Visual Design  
+1. Opening - Information Architecture
+2. Middle Game - Visual Design
 3. End Game - Build
 
 #### Opponent as User, Client, and Colleague
@@ -90,9 +90,9 @@ Implementing Design. Bulletproof A-Z
 
 When something is well-crafted, it reflects that a human was behind the design.
 
-Bulletproofiness (my term, not his) consists of:  
-Flexibility  
-Adaptable to multiple scenarios  
+Bulletproofiness (my term, not his) consists of:
+Flexibility
+Adaptable to multiple scenarios
 Adding detail without complexity
 
 A. **Anchor links with meta information**: typical modules encapsulate a list of links with some numbers on the right. Making the whole line clickable rather than just the link text. Link text could become longer than expected (likewise, the number) so what works better? Absolute positioning? or Floats? (The answer is floating).
@@ -101,10 +101,10 @@ B. **Border-radius**: Even though it isn't a property that can be used across th
 
 C. **Color Transparency with RGBa**: This sets the opacity value for background-color only). This is easily implementable by declaring background color in the standard way and then overriding it with RGBa for browsers that recognize it.
 
-D. **Do Websites Need to Look Exactly the Same in Every Browser**: The answer is no.  
+D. **Do Websites Need to Look Exactly the Same in Every Browser**: The answer is no.
 **Decision Makers Who Get It**: it's great to be able to work with people who understand that not every browser will do the same thing. Understand that this is in regard to tiny visual enhancements that don't affect the layout.
 
-E. **Easy Clearing of Floats**: Dan uses clearfix often, but discovered that the class name can be offputting to clients, so he changed the name. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+E. **Easy Clearing of Floats**: Dan uses clearfix often, but discovered that the class name can be offputting to clients, so he changed the name. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 F. **Frameworks**: Dan writes his own. The fixes are there, the reset may be there, and stubs for the things that are commonly found from project to project.
 
@@ -116,7 +116,7 @@ I. **IE8 Still Refuses to Resize Text in Pixels**: WTF? Does page-zoom affect th
 
 J. **J-Query**: At it's core, Jquery is one file and is very "css-like".
 
-K. **Kitty**: Just because. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+K. **Kitty**: Just because. <img src='http://shallowthoughts.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
 
 L. **.last**: Making use of a last class for presentation changes can be accomplished using Jquery.
 
@@ -170,5 +170,5 @@ Provide filters to enable clarity. Enable tools that allow users to scale down t
 
 ### A Panel Apart
 
-**How do you handle clients who will not hire a copywriter and insist on writing the content themselves?**  
+**How do you handle clients who will not hire a copywriter and insist on writing the content themselves?**
 Happy Cog has copywriters on staff, in house, and they "include" it in tandem with the Information Architecture process (if you need to "hide" the costs) in billing. He then suggests scaling back in other areas, where possible.

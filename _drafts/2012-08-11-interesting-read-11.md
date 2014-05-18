@@ -1,7 +1,7 @@
 ---
 title: 'Interesting read:'
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/08/11/interesting-read-11/
 categories:
   - Stuff I need to remember

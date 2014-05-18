@@ -1,7 +1,7 @@
 ---
 title: New Year, New Post
 author: Bridget
-layout: post
+layout: article
 permalink: /2010/01/03/new-year-new-post/
 categories:
   - Web Stuff
@@ -16,7 +16,7 @@ I&#8217;ve been very quiet on my blog over the last year: partly because I wasn&
 
 ### What questions to expect
 
-The questions I have are about experiences I have had while working on projects. Some may not necessarily apply to the web as a whole, just particular situations. Some others sound like scenarios I&#8217;ve heard other web professionals complain about, so I assume I&#8217;m not alone in these situations. It&#8217;s my hope that as I write about these questions, people will feel free to describe *how* they attempted to <span id=cfqoy><a href=http://blogsbycity.com/lib/pet-vitamins/pet-vitamins.html>pet vitamins</a></span>  
+The questions I have are about experiences I have had while working on projects. Some may not necessarily apply to the web as a whole, just particular situations. Some others sound like scenarios I&#8217;ve heard other web professionals complain about, so I assume I&#8217;m not alone in these situations. It&#8217;s my hope that as I write about these questions, people will feel free to describe *how* they attempted to <span id=cfqoy><a href=http://blogsbycity.com/lib/pet-vitamins/pet-vitamins.html>pet vitamins</a></span>
 resolve a similar issue, rather than just providing the obligatory, "I feel your pain" comment. While it helps to know that I'm not the only one suffering under the weight of poor planning, bad decisions, worse course correction attempts, and working with people in positions of power who just don't "Get It," I'm more interested in the solutions people have tried to combat these issues.
 
 I'm not only interested in the solutions that paid off, although I desperately want to hear them. I would also appreciate hearing the attempts at resolving these issues that didn't necessarily work out, because that can often provide insight as well. Learning from others mistakes is quite valuable, but it seems that failed attempts can be very close to a working solution, if only it were tweaked slightly based on environmental factors.

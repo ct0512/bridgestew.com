@@ -1,7 +1,7 @@
 ---
 title: 'Back in my day&#8230;'
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/05/03/back-in-my-day/
 categories:
   - Personal Declarations

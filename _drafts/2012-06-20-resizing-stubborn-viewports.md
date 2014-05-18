@@ -1,7 +1,7 @@
 ---
 title: Resizing stubborn viewports
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/06/20/resizing-stubborn-viewports/
 categories:
   - Stuff I need to remember

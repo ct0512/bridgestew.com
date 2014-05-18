@@ -1,7 +1,7 @@
 ---
 title: Aiding CSS3 Rounded Corner Images
 author: Bridget
-layout: post
+layout: article
 permalink: /2010/08/25/aiding-css3-rounded-corner-images/
 categories:
   - Uncategorized
@@ -14,21 +14,21 @@ In my scenario, there is already a <samp>div</samp> with <samp>class=&#8221;figu
 
 <pre><code lang="javascript">$(document).ready(function() {
 
-// find images inside the divs with the class of 
-// "figure" - and for each of them do some stuff 
-	
+// find images inside the divs with the class of
+// "figure" - and for each of them do some stuff
+
   $('.figure img').each(function() {
 
 // store the src attribute for the img because we
 // need it in the next bit
-	
+
   var imgSrc = $(this).attr('src');
 
-// wrap the image in a p tag and use the src 
-// attribute we stored earlier in the inline style 
+// wrap the image in a p tag and use the src
+// attribute we stored earlier in the inline style
 // on the p tag
-		
-  $(this).wrap('&lt;p style="background-image:url(' 
+
+  $(this).wrap('&lt;p style="background-image:url('
   +imgSrc+ ');"/&gt;');
   });
 });</code>

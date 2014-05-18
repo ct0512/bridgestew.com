@@ -1,7 +1,7 @@
 ---
 title: CSS WG Development vs Adobe Development
 author: Bridget
-layout: post
+layout: article
 permalink: /2007/12/14/my-thoughts-on-css-development/
 categories:
   - Web Stuff
@@ -18,7 +18,7 @@ When Adobe is delivering a new version of [Photoshop][4], they are in control of
 
 That is not the case with CSS development. The W3C participants who dream up CSS specs don&#8217;t deliver THE companion product that renders the CSS according to the plan. CSS is dependent upon an &#8220;outside&#8221; product &#8212; the web browser, manufactured by entities other than the W3C. Obviously, this complicates matters.
 
-Before you feel a need to correct me: yes, I know that there are seats on the W3C for the web browser manufacturers/developers. However, there are not seats reserved at Photoshop development meetings for the likes of, let&#8217;s say, [Gimp][5] or [Corel][6] employees. Adobe isn&#8217;t developing the standard for how image editing software should work in general. They are only concerned with the standard for how *Photoshop* should work. That is why I think comparing Adobe software development to <span id=acjn><a href=http://blogsbycity.com/lib/pet-vitamins/best-pet-vitamins.html>best pet vitamins</a></span>  
+Before you feel a need to correct me: yes, I know that there are seats on the W3C for the web browser manufacturers/developers. However, there are not seats reserved at Photoshop development meetings for the likes of, let&#8217;s say, [Gimp][5] or [Corel][6] employees. Adobe isn&#8217;t developing the standard for how image editing software should work in general. They are only concerned with the standard for how *Photoshop* should work. That is why I think comparing Adobe software development to <span id=acjn><a href=http://blogsbycity.com/lib/pet-vitamins/best-pet-vitamins.html>best pet vitamins</a></span>
 CSS specification development is like comparing apples to oranges.
 
 I wonder if it wouldn't be more beneficial to compare the adoption and development of the vCard standard by reviewing the trail blazed by the Versit Consortium and the Internet Mail Consortium. I don't have an answer -- just the suggestion. Has the development of vCard standards moved at a snail's pace? Has adoption of the standard been excruciating at any point in the process? Is it still?

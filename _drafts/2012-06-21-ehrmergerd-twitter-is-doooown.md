@@ -1,7 +1,7 @@
 ---
 title: Ehrmergerd Twitter is Doooown!
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/06/21/ehrmergerd-twitter-is-doooown/
 categories:
   - Nonsense

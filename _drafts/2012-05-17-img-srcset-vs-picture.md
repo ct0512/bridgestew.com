@@ -1,7 +1,7 @@
 ---
 title: '&lt;img srcset=&#8221;"&gt; vs. &lt;picture&gt;'
 author: Bridget
-layout: post
+layout: article
 permalink: /2012/05/17/img-srcset-vs-picture/
 categories:
   - Web Stuff

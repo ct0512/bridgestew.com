@@ -1,7 +1,7 @@
 ---
 title: Stewart Summer Blockbuster Series
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/07/29/stewart-summer-blockbuster-series/
 categories:
   - Nonsense
@@ -72,7 +72,7 @@ We liked this film so much that it is the one that comes in at such a close seco
 
 ### Conclusion
 
-There were many, many more movies that were released this season, most of <span id=obhs><a href=http://blogsbycity.com/lib/pet-vitamins/pet-nutrition-supplement.html>pet nutrition supplement</a></span>  
+There were many, many more movies that were released this season, most of <span id=obhs><a href=http://blogsbycity.com/lib/pet-vitamins/pet-nutrition-supplement.html>pet nutrition supplement</a></span>
 which we have no interest in seeing - not even on DVD. I heard horrible things about The Happening, so my initial interest has waned. Also, even though I like Mike Meyers and Adam Sandler I have no interest in their movies this time around. I also couldn't have cared less that there was an other Indiana Jones flick in the offering. Sex and the City isn't really my speed. The X Files? Yawn. Hasn't that ship sailed, like, a decade ago?
 
 I may be willing to see The Incredible Hulk on DVD out of loyalty to Edward Norton, but I'm hesitant because I did not like the first Hulk movie. I'll surely want to see Wall-E on DVD, but it didn't warrant seeing it in the theater, especially since we already went an unprecedented 6 times in one season.

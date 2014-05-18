@@ -1,7 +1,7 @@
 ---
 title: Browser Wars 2.0
 author: Bridget
-layout: post
+layout: article
 permalink: /2007/12/14/browser-wars-20/
 categories:
   - Web Stuff
@@ -14,7 +14,7 @@ The [press release][5] on Opera filing an antitrust complaint against Microsoft 
 
 <img src="http://shallowthoughts.org/wp-content/uploads/2007/12/ie7logo.thumbnail.jpg" style="float: left; margin-right: 1em" alt="ie7logo.jpg" />As a web designer, I am aware of Internet Explorer&#8217;s flaws. I realize I am likely to be in the minority on this knowledge. The typical [Windows][6] user is unaware that other browsers exist, let alone that it doesn&#8217;t adhere to standards in optimal fashion. I get that Opera knows this and wants that to change, in particular. However, even if [Microsoft][7] provided alternative browsers bundled with Windows, I don&#8217;t know that Joe Blow would bother to use it. He&#8217;s already accustomed to looking for the big blue &#8220;e&#8221; to make the internet go.
 
-As for making a case on giving consumers a choice to use a browser that adheres to standards: IE7 was a leap forward in standards support over IE6, but that didn&#8217;t cause the <span id=lclap><a href=http://blogsbycity.com/lib/pet-vitamins/dog-skin-and-coat-supplement.html>dog skin and coat supplement</a></span>  
+As for making a case on giving consumers a choice to use a browser that adheres to standards: IE7 was a leap forward in standards support over IE6, but that didn&#8217;t cause the <span id=lclap><a href=http://blogsbycity.com/lib/pet-vitamins/dog-skin-and-coat-supplement.html>dog skin and coat supplement</a></span>
 mainstream surfer to make the switch. My husband still uses IE6 because he doesn't like the tabs in IE7. If he doesn't like them in IE7, he's not going to like them in Firefox or Opera. He's anti-tab!
 
 Sure he can turn the tabs off. Do you think he knows that? Nope. I've shown him that he can turn off the tabs many moons ago. He didn't like the Favorites bar that he couldn't make go away. He also didn't like the look overall. He was used to his old Internet Explorer and wanted it back.

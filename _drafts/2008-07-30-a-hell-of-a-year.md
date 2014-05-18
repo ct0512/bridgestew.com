@@ -1,7 +1,7 @@
 ---
 title: A Hell of a Year
 author: Bridget
-layout: post
+layout: article
 permalink: /2008/07/30/a-hell-of-a-year/
 categories:
   - Personal Declarations
@@ -14,7 +14,7 @@ If you are interested in what transpired this year that kept me away, keep readi
 
 ### The shit hits the fan
 
-It started at the <span id=sujxs><a href=http://blogsbycity.com/lib/pet-vitamins/dog-skin-supplement.html>dog skin supplement</a></span>  
+It started at the <span id=sujxs><a href=http://blogsbycity.com/lib/pet-vitamins/dog-skin-supplement.html>dog skin supplement</a></span>
 end of December. My mother and father were both sick with the flu (or so we thought). While my dad recovered in usual time, my mother's symptoms lingered. She was going back and forth to the doctor on a regular basis to try to get past it, but instead she worsened. It turned that she had a heart attack and was in congestive heart failure. She ended up having quintuple bypass surgery on Christmas day. Thankfully, she has recovered from that very well, but with complications. She has blockage in one of her carotid arteries that cannot be treated because it is too high up for the surgeon to reach.
 
 A few weeks later my step-father-in-law had a major stroke. My mother-in-law had to choose between treating him which had a 60% chance of mortality for him, or do nothing which was certain death. Naturally, she chose to give him a chance to live, but with the odds being only 40% it didn't feel as hopeful as we would have liked. Thankfully, by the grace of God, he has recovered, too.
@@ -33,6 +33,6 @@ A few weeks after that, my sister (mentioned above) was walking home from work w
 
 Although most of the events outlined above had positive outcomes, these events kept me very busy. As a result, focusing on regular blog contributions took a back seat. I still had a full time job that also required my time and attention. I just didn't have anything left to give at the end of the day.
 
-The past couple months have been more stable and I find my energy returning to me. That is why I am now declaring that it's time to observe the world, shallowly of course, and start documenting what I think. 
+The past couple months have been more stable and I find my energy returning to me. That is why I am now declaring that it's time to observe the world, shallowly of course, and start documenting what I think.
 
 God help us all.
